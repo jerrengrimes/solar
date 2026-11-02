@@ -11,10 +11,10 @@ Russian Federation,143513.00
 Ethiopia,135472.00
 Mexico,131947.00
 Japan,123367.00
-Egypt Arab Rep.,118366.00
+Egypt,118366.00
 Philippines,116787.00
 Democratic Republic of Congo,112832.00
-Viet Nam,101599.00
+VietNam,101599.00
 Islamic Republic of Iran,92418.00
 Türkiye,85879.00
 Germany,83491.00
@@ -54,8 +54,8 @@ Nepal,29618.00
 Venezuela RB,28517.00
 Niger,27918.00
 Australia,27614.00
-Korea Dem. People's Rep.,26571.00
-Syrian Arab Republic,25620.00
+North Korea,26571.00
+Syria,25620.00
 Mali,25199.00
 Burkina Faso,24075.00
 Malawi,22216.00
@@ -100,9 +100,9 @@ Switzerland,9092.00
 Belarus,9086.00
 Sierra Leone,8820.00
 Togo,8592.00
-Lao PDR,7873.00
+Laos,7873.00
 Turkmenistan,7619.00
-Hong Kong SAR China,7499.00
+Hong Kong,7499.00
 Libya,7459.00
 Kyrgyz Republic,7343.00
 Paraguay,7013.00
@@ -181,7 +181,7 @@ Barbados,283.00
 French Polynesia,282.00
 São Tomé and Principe,240.00
 Samoa,219.00
-St. Lucia,180.00
+Saint Lucia,180.00
 Guam,169.00
 Channel Islands,168.00
 Curaçao,156.00
@@ -192,7 +192,7 @@ Micronesia Fed. Sts.,114.00
 Aruba,109.00
 Virgin Islands (U.S.),104.00
 Tonga,104.00
-St. Vincent and the Grenadines,100.00
+Saint Vincent and the Grenadines,100.00
 Antigua and Barbuda,94.00
 Isle of Man,84.00
 Andorra,83.00
@@ -201,7 +201,7 @@ Dominica,66.00
 Bermuda,65.00
 Greenland,57.00
 Faroe Islands,55.00
-St. Kitts and Nevis,47.00
+Saint Kitts and Nevis,47.00
 Turks and Caicos Islands,47.00
 American Samoa,46.00
 Sint Maarten (Dutch part),44.00
@@ -212,7 +212,7 @@ British Virgin Islands,40.00
 Monaco,38.00
 Marshall Islands,36.00
 San Marino,34.00
-St. Martin (French part),25.00
+Saint Martin (French part),25.00
 Palau,18.00
 Naoero,12.00
 Tuvalu,9.00
