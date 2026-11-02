@@ -37,8 +37,8 @@ Chile,742031.98
 China,9388210
 Ivory Coast,318000
 Cameroon,472710
-"Congo, Dem. Rep.",2267050
-"Congo, Rep.",341500
+Democratic Republic of Congo,2267050
+Republic of Congo,341500
 Colombia,1109500
 Comoros,1869.7
 Cabo Verde,4030
@@ -55,7 +55,7 @@ Denmark,40000
 Dominican Republic,48198.02
 Algeria,2381740
 Ecuador,248360
-"Egypt, Arab Rep.",995450
+Egypt,995450
 Eritrea,120800
 Spain,499685.509
 Estonia,42730
@@ -80,7 +80,7 @@ Greenland,410449
 Guatemala,107160
 Guam,541
 Guyana,211140
-"Hong Kong SAR, China",1050
+Hong Kong,1050
 Honduras,111890
 Croatia,55960
 Haiti,27560
@@ -102,22 +102,22 @@ Kenya,580880
 Kyrgyz Republic,191800
 Cambodia,176520
 Kiribati,811
-St. Kitts and Nevis,261
-"Korea, Rep.",97600
+Saint Kitts and Nevis,261
+South Korea,97600
 Kuwait,17820
-Lao PDR,230800
+Laos,230800
 Lebanon,10230
 Liberia,96320
 Libya,1759540
-St. Lucia,610
+Saint Lucia,610
 Liechtenstein,160
 Sri Lanka,61860
 Lesotho,30360
 Lithuania,62590
 Luxembourg,2574.46
 Latvia,62230
-"Macao SAR, China",33.3
-St. Martin (French part),53
+Macao,33.3
+Saint Martin (French part),53
 Morocco,446300
 Monaco,2.084
 Moldova,32930
@@ -156,7 +156,7 @@ Palau,460
 Papua New Guinea,452860
 Poland,306070
 Puerto Rico (US),8870
-"Korea, Dem. People's Rep.",120410
+North Korea,120410
 Portugal,91605.6
 Paraguay,396012.03
 West Bank and Gaza,6025
@@ -173,7 +173,7 @@ Solomon Islands,27990
 Sierra Leone,72180
 El Salvador,20720
 San Marino,61.2
-"Somalia, Fed. Rep.",627340
+Somalia,627340
 Serbia,87588.7
 South Sudan,631930
 Sao Tome and Principe,960
@@ -203,16 +203,16 @@ Ukraine,579400
 Uruguay,175016
 United States,9147420
 Uzbekistan,438510
-St. Vincent and the Grenadines,389
-"Venezuela, RB",882050
+Saint Vincent and the Grenadines,389
+Venezuela,882050
 British Virgin Islands,151
 Virgin Islands (U.S.),348
 Viet Nam,313429
 Vanuatu,12189
 World,129635077.6
 Samoa,2780
-Kosovo,
-"Yemen, Rep.",527968
+Kosovo,1
+Yemen,527968
 South Africa,1213090
 Zambia,743390
 Zimbabwe,386850
