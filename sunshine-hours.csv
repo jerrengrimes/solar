@@ -1,0 +1,271 @@
+city,country_iso2,lat,lon,annual_hours
+Lisbon,PT,38.72,-9.14,2799
+Porto,PT,41.15,-8.61,2562
+Algarve,PT,37.1,-8.68,2919
+Madrid,ES,40.42,-3.7,2691
+Barcelona,ES,41.39,2.15,2447
+Seville,ES,37.39,-5.99,2918
+Valencia,ES,39.47,-0.38,2628
+Málaga,ES,36.72,-4.42,2866
+Palma de Mallorca,ES,39.57,2.65,2625
+Las Palmas,ES,28.12,-15.44,2602
+Santa Cruz de Tenerife,ES,28.47,-16.25,2646
+Paris,FR,48.86,2.35,1646
+Nice,FR,43.71,7.26,2389
+Bordeaux,FR,44.84,-0.58,2057
+Marseille,FR,43.3,5.37,2482
+Montpellier,FR,43.61,3.88,2277
+Amsterdam,NL,52.37,4.9,1656
+Berlin,DE,52.52,13.4,1606
+Munich,DE,48.14,11.58,1775
+Hamburg,DE,53.55,9.99,1654
+Cologne,DE,50.94,6.96,1597
+Zurich,CH,47.38,8.54,1829
+Geneva,CH,46.2,6.14,1919
+Vienna,AT,48.21,16.37,1805
+Prague,CZ,50.08,14.44,1633
+Budapest,HU,47.5,19.04,1916
+Warsaw,PL,52.23,21.01,1612
+Kraków,PL,50.06,19.94,1619
+Bratislava,SK,48.15,17.11,1802
+Ljubljana,SI,46.05,14.51,1894
+Zagreb,HR,45.81,15.98,1970
+Split,HR,43.51,16.44,2322
+Dubrovnik,HR,42.65,18.09,2357
+Rome,IT,41.9,12.5,2490
+Milan,IT,45.46,9.19,2079
+Florence,IT,43.77,11.25,2224
+Naples,IT,40.84,14.25,2495
+Bologna,IT,44.49,11.34,2184
+Palermo,IT,38.12,13.36,2535
+Catania,IT,37.5,15.09,2529
+Athens,GR,37.98,23.73,2858
+Thessaloniki,GR,40.64,22.94,2503
+Heraklion,GR,35.34,25.13,2815
+Nicosia,CY,35.17,33.36,2871
+Paphos,CY,34.77,32.42,3052
+Istanbul,TR,41.01,28.95,2275
+Antalya,TR,36.9,30.7,2877
+Izmir,TR,38.42,27.14,2838
+Bodrum,TR,37.03,27.43,2973
+Sofia,BG,42.7,23.32,2163
+Plovdiv,BG,42.14,24.75,2200
+Bucharest,RO,44.43,26.1,2167
+Cluj-Napoca,RO,46.77,23.59,1942
+Belgrade,RS,44.8,20.46,2047
+Novi Sad,RS,45.25,19.83,2042
+Skopje,MK,41.99,21.43,2339
+Tirana,AL,41.33,19.82,2486
+Kotor,ME,42.42,18.77,2357
+Tallinn,EE,59.44,24.75,1856
+Riga,LV,56.95,24.11,1761
+Vilnius,LT,54.69,25.28,1699
+Helsinki,FI,60.17,24.94,1781
+Stockholm,SE,59.33,18.07,1879
+Gothenburg,SE,57.71,11.97,1809
+Oslo,NO,59.91,10.75,1703
+Bergen,NO,60.39,5.32,1523
+Copenhagen,DK,55.68,12.57,1775
+Reykjavik,IS,64.14,-21.94,1332
+London,GB,51.51,-0.13,1492
+Edinburgh,GB,55.95,-3.19,1439
+Dublin,IE,53.33,-6.25,1538
+Brussels,BE,50.85,4.35,1611
+Luxembourg City,LU,49.61,6.13,1676
+Valletta,MT,35.9,14.51,2705
+Funchal (Madeira),PT,32.65,-16.91,2604
+Tbilisi,GE,41.69,44.83,2180
+Batumi,GE,41.64,41.64,2073
+Yerevan,AM,40.18,44.51,2423
+Baku,AZ,40.41,49.87,2214
+Almaty,KZ,43.26,76.94,2754
+Tashkent,UZ,41.3,69.24,3006
+Dubai,AE,25.2,55.27,3381
+Abu Dhabi,AE,24.47,54.37,3500
+Muscat,OM,23.61,58.59,3346
+Doha,QA,25.29,51.53,2982
+Riyadh,SA,24.69,46.72,3595
+Tel Aviv,IL,32.08,34.78,3135
+Amman,JO,31.96,35.95,3295
+Beirut,LB,33.89,35.5,3064
+Casablanca,MA,33.59,-7.62,2915
+Marrakech,MA,31.63,-8,3075
+Agadir,MA,30.42,-9.6,3095
+Essaouira,MA,31.51,-9.76,3122
+Cairo,EG,30.04,31.24,3381
+Hurghada,EG,27.26,33.81,3542
+Sharm el-Sheikh,EG,27.91,34.33,3436
+Tunis,TN,36.82,10.16,2487
+Nairobi,KE,-1.29,36.82,2859
+Cape Town,ZA,-33.93,18.42,3348
+Johannesburg,ZA,-26.2,28.04,3003
+Lagos,NG,6.52,3.38,1803
+Accra,GH,5.56,-0.2,1996
+Dakar,SN,14.72,-17.47,2701
+Addis Ababa,ET,9.03,38.74,3045
+Mumbai,IN,19.08,72.88,2842
+Bangalore,IN,12.97,77.59,2765
+Goa,IN,15.3,74.01,2656
+Delhi,IN,28.66,77.23,2650
+Kolkata,IN,22.57,88.36,2356
+Kathmandu,NP,27.72,85.32,2577
+Colombo,LK,6.93,79.85,2765
+Dhaka,BD,23.72,90.41,2337
+Karachi,PK,24.86,67.01,2960
+Lahore,PK,31.55,74.34,2750
+Bangkok,TH,13.75,100.52,3025
+Chiang Mai,TH,18.79,98.98,2650
+Phuket,TH,7.89,98.4,2691
+Koh Samui,TH,9.53,100.06,2671
+Ho Chi Minh City,VN,10.82,106.63,2659
+Hanoi,VN,21.03,105.85,1870
+Da Nang,VN,16.05,108.2,2497
+Hoi An,VN,15.88,108.34,2368
+Kuala Lumpur,MY,3.14,101.69,2328
+Penang,MY,5.41,100.33,2473
+Singapore,SG,1.35,103.82,1994
+Bali (Denpasar),ID,-8.65,115.22,2769
+Jakarta,ID,-6.21,106.85,2253
+Yogyakarta,ID,-7.8,110.37,2476
+Manila,PH,14.6,120.98,2559
+Cebu,PH,10.32,123.9,2433
+Phnom Penh,KH,11.56,104.93,2771
+Siem Reap,KH,13.36,103.86,2871
+Vientiane,LA,17.97,102.6,2788
+Yangon,MM,16.87,96.19,2687
+Beijing,CN,39.9,116.41,2668
+Shanghai,CN,31.23,121.47,2140
+Guangzhou,CN,23.13,113.26,1887
+Shenzhen,CN,22.54,114.06,2114
+Chengdu,CN,30.66,104.07,1576
+Hong Kong,HK,22.32,114.17,2114
+Taipei,TW,25.05,121.53,1915
+Seoul,KR,37.57,126.98,2305
+Busan,KR,35.18,129.07,2169
+Tokyo,JP,35.69,139.69,1878
+Osaka,JP,34.69,135.5,1921
+Kyoto,JP,35.01,135.77,1754
+Fukuoka,JP,33.6,130.42,2048
+Ulaanbaatar,MN,47.9,106.91,2704
+Sydney,AU,-33.87,151.21,2639
+Melbourne,AU,-37.81,144.96,2266
+Brisbane,AU,-27.47,153.02,2690
+Perth,AU,-31.95,115.86,3310
+Gold Coast,AU,-28.02,153.43,2615
+Auckland,NZ,-36.87,174.77,1929
+Wellington,NZ,-41.29,174.78,2102
+Queenstown,NZ,-45.03,168.66,2116
+Mexico City,MX,19.43,-99.13,2328
+Guadalajara,MX,20.67,-103.35,2770
+Monterrey,MX,25.67,-100.31,2793
+Oaxaca,MX,17.07,-96.72,2136
+Playa del Carmen,MX,20.63,-87.08,2803
+Mérida,MX,20.97,-89.62,2764
+San José,CR,9.93,-84.08,1954
+Panama City,PA,8.99,-79.52,2061
+Bogotá,CO,4.71,-74.07,1353
+Medellín,CO,6.25,-75.56,1700
+Cartagena,CO,10.39,-75.48,2678
+Caracas,VE,10.48,-66.88,2722
+Quito,EC,-0.22,-78.51,1426
+Lima,PE,-12.05,-77.04,1241
+Cusco,PE,-13.53,-71.97,1675
+La Paz,BO,-16.5,-68.15,2500
+Santiago,CL,-33.46,-70.65,3046
+Valparaíso,CL,-33.05,-71.62,2871
+Buenos Aires,AR,-34.61,-58.38,2529
+Córdoba,AR,-31.42,-64.19,2647
+Mendoza,AR,-32.89,-68.85,3097
+Montevideo,UY,-34.9,-56.19,2559
+São Paulo,BR,-23.55,-46.63,2214
+Rio de Janeiro,BR,-22.91,-43.17,2296
+Florianópolis,BR,-27.6,-48.55,2140
+Recife,BR,-8.05,-34.88,2819
+Fortaleza,BR,-3.72,-38.54,2636
+New York City,US,40.71,-74.01,2533
+Miami,US,25.77,-80.19,3143
+Los Angeles,US,34.05,-118.24,3767
+San Francisco,US,37.77,-122.42,3010
+Austin,US,30.27,-97.74,2689
+Denver,US,39.74,-104.98,3197
+Seattle,US,47.61,-122.33,1871
+Chicago,US,41.88,-87.63,2459
+Boston,US,42.36,-71.06,2499
+Vancouver,CA,49.25,-123.12,1780
+Toronto,CA,43.65,-79.38,2367
+Montréal,CA,45.51,-73.55,2353
+Havana,CU,23.13,-82.38,3241
+Santo Domingo,DO,18.48,-69.93,2776
+San Juan,PR,18.47,-66.12,2590
+Nassau,BS,25.04,-77.34,3233
+Bridgetown,BB,13.1,-59.61,2820
+Chiang Rai,TH,19.91,99.83,2700
+Pai,TH,19.36,98.44,2658
+Koh Lanta,TH,7.54,99.05,2505
+Nha Trang,VN,12.24,109.19,2620
+Kampot,KH,10.61,104.18,2671
+Luang Prabang,LA,19.89,102.14,2461
+Ubud,ID,-8.51,115.26,2769
+Lombok,ID,-8.65,116.32,2782
+Canggu (Bali),ID,-8.65,115.13,2769
+La Romana,DO,18.43,-68.97,2783
+Antigua,GT,14.56,-90.73,2473
+León,NI,12.43,-86.88,2367
+Granada,NI,11.93,-85.96,2090
+Flores,GT,16.93,-89.89,2253
+Cali,CO,3.44,-76.52,1379
+Santa Marta,CO,11.24,-74.2,2943
+Arequipa,PE,-16.41,-71.54,2591
+Asunción,PY,-25.29,-57.65,2410
+Old Town Tbilisi,GE,41.69,44.81,2180
+Kutaisi,GE,42.27,42.7,2100
+Ohrid,MK,41.12,20.8,2275
+Mostar,BA,43.34,17.81,2141
+Sarajevo,BA,43.85,18.41,2046
+Chefchaouen,MA,35.17,-5.27,2802
+Fes,MA,34.04,-5,2891
+Zanzibar City,TZ,-6.17,39.2,2766
+Dar es Salaam,TZ,-6.79,39.27,2766
+Kampala,UG,0.35,32.58,2561
+Kigali,RW,-1.95,30.06,2331
+Abidjan,CI,5.36,-4.01,1938
+Mombasa,KE,-4.05,39.67,2775
+Windhoek,NA,-22.56,17.08,3347
+Port Louis,MU,-20.16,57.5,2833
+Malé,MV,4.18,73.51,2714
+Saint-Denis,RE,-20.88,55.45,2972
+Nouméa,NC,-22.28,166.46,2543
+Suva,FJ,-18.14,178.44,2261
+Nadi,FJ,-17.77,177.43,2430
+Honolulu,US,21.31,-157.86,2866
+Guadalajara,MX,20.67,-103.35,2770
+San Cristóbal de las Casas,MX,16.74,-92.64,2460
+Puerto Vallarta,MX,20.65,-105.22,2739
+Tulum,MX,20.21,-87.46,2803
+Porto Alegre,BR,-30.03,-51.23,2309
+Belo Horizonte,BR,-19.92,-43.94,2411
+Natal,BR,-5.79,-35.21,2646
+Salvador,BR,-12.97,-38.5,2422
+Manaus,BR,-3.1,-60.02,2285
+El Poblado (Medellín),CO,6.21,-75.57,1700
+Pokhara,NP,28.21,83.99,2490
+Chennai,IN,13.08,80.27,2617
+Pune,IN,18.52,73.86,2721
+Hyderabad,IN,17.38,78.49,2781
+Ahmedabad,IN,23.03,72.57,2977
+Jaipur,IN,26.91,75.79,2966
+Amritsar,IN,31.63,74.87,2750
+Varanasi,IN,25.32,83,2541
+Pondicherry,IN,11.93,79.83,2698
+Kochi,IN,9.99,76.27,2575
+Dumaguete,PH,9.31,123.31,2481
+Siargao,PH,9.86,126.05,2409
+Ho Chi Minh (District 2),VN,10.79,106.75,2659
+Mui Ne,VN,10.95,108.29,2861
+Vung Tau,VN,10.35,107.08,2770
+Kyiv,UA,50.45,30.52,1935
+Lviv,UA,49.84,24.03,1770
+Minsk,BY,53.9,27.56,1774
+Chișinău,MD,47.01,28.86,2040
+Moscow,RU,55.75,37.62,1714
+Saint Petersburg,RU,59.93,30.32,1716
