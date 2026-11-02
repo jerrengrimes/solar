@@ -1,12 +1,9 @@
 ﻿name,sq km
 Aruba,180
-Africa Eastern and Southern,
 Afghanistan,652230
-Africa Western and Central,
 Angola,1246700
 Albania,27400
 Andorra,468
-Arab World,
 United Arab Emirates,71020
 Argentina,2736690
 Armenia,28199.4
@@ -22,7 +19,7 @@ Burkina Faso,273600
 Bangladesh,130170
 Bulgaria,108560
 Bahrain,800
-"Bahamas, The",10010
+Bahamas,10010
 Bosnia and Herzegovina,51200
 Belarus,202976
 Belize,22810
@@ -35,11 +32,10 @@ Bhutan,38140
 Botswana,566730
 Central African Republic,622980
 Canada,8788700
-Central Europe and the Baltics,
 Switzerland,39509.63
 Chile,742031.98
 China,9388210
-Cote d'Ivoire,318000
+Ivory Coast,318000
 Cameroon,472710
 "Congo, Dem. Rep.",2267050
 "Congo, Rep.",341500
@@ -47,7 +43,6 @@ Colombia,1109500
 Comoros,1869.7
 Cabo Verde,4030
 Costa Rica,50560
-Caribbean small states,
 Cuba,103800
 Curacao,444
 Cayman Islands,240
@@ -59,32 +54,24 @@ Dominica,751
 Denmark,40000
 Dominican Republic,48198.02
 Algeria,2381740
-East Asia & Pacific (excluding high income),
-Early-demographic dividend,
-East Asia & Pacific,
-Europe & Central Asia (excluding high income),
-Europe & Central Asia,
 Ecuador,248360
 "Egypt, Arab Rep.",995450
-Euro area,
 Eritrea,120800
 Spain,499685.509
 Estonia,42730
 Ethiopia,1122134.8
-European Union,
-"Fragility, Conflict, and Violence (FCV) situations",
 Finland,304000
 Fiji,18333
 France,538950
 Faroe Islands,1370
-"Micronesia, Fed. Sts.",701
+Micronesia,701
 Gabon,257670
 United Kingdom,241930
 Georgia,69490
 Ghana,227533
 Gibraltar,10
 Guinea,245720
-"Gambia, The",10120
+Gambia,10120
 Guinea-Bissau,28120
 Equatorial Guinea,28051.5
 Greece,128900
@@ -93,24 +80,16 @@ Greenland,410449
 Guatemala,107160
 Guam,541
 Guyana,211140
-High income,
 "Hong Kong SAR, China",1050
 Honduras,111890
-Heavily indebted poor countries (HIPC),
 Croatia,55960
 Haiti,27560
 Hungary,91260
-IBRD only,
-IDA & IBRD total,
-IDA total,
-IDA blend,
 Indonesia,1892410.1
-IDA only,
 Isle of Man,572.387
 India,2973190
-Not classified,
 Ireland,68890
-"Iran, Islamic Rep.",1622500
+Iran,1622500
 Iraq,434130
 Iceland,100830
 Israel,21640
@@ -126,21 +105,14 @@ Kiribati,811
 St. Kitts and Nevis,261
 "Korea, Rep.",97600
 Kuwait,17820
-Latin America & Caribbean (excluding high income),
 Lao PDR,230800
 Lebanon,10230
 Liberia,96320
 Libya,1759540
 St. Lucia,610
-Latin America & Caribbean,
-Least developed countries: UN classification,
-Low income,
 Liechtenstein,160
 Sri Lanka,61860
-Lower middle income,
-Low & middle income,
 Lesotho,30360
-Late-demographic dividend,
 Lithuania,62590
 Luxembourg,2574.46
 Latvia,62230
@@ -151,15 +123,12 @@ Monaco,2.084
 Moldova,32930
 Madagascar,581800
 Maldives,298
-"Middle East, North Africa, Afghanistan & Pakistan",
 Mexico,1943950
 Marshall Islands,181
-Middle income,
 North Macedonia,25220
 Mali,1220190
 Malta,315.15
 Myanmar,652670
-"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",
 Montenegro,13450
 Mongolia,1558500.846
 Northern Mariana Islands,457
@@ -168,7 +137,6 @@ Mauritania,1030700
 Mauritius,2000
 Malawi,94280
 Malaysia,328550
-North America,
 Namibia,823290
 New Caledonia,18576
 Niger,1266700
@@ -179,9 +147,7 @@ Norway,364270
 Nepal,143350
 Naoero,21
 New Zealand,263310
-OECD members,
 Oman,309500
-Other small states,
 Pakistan,770880
 Panama,74180
 Peru,1280000
@@ -189,20 +155,16 @@ Philippines,298170
 Palau,460
 Papua New Guinea,452860
 Poland,306070
-Pre-demographic dividend,
 Puerto Rico (US),8870
 "Korea, Dem. People's Rep.",120410
 Portugal,91605.6
 Paraguay,396012.03
 West Bank and Gaza,6025
-Pacific island small states,
-Post-demographic dividend,
 French Polynesia,3521
 Qatar,11490
 Romania,230080
 Russian Federation,16376870
 Rwanda,23762.988
-South Asia,
 Saudi Arabia,2149690
 Sudan,1868000
 Senegal,192530
@@ -213,10 +175,7 @@ El Salvador,20720
 San Marino,61.2
 "Somalia, Fed. Rep.",627340
 Serbia,87588.7
-Sub-Saharan Africa (excluding high income),
 South Sudan,631930
-Sub-Saharan Africa,
-Small states,
 Sao Tome and Principe,960
 Suriname,160507.61
 Slovak Republic,48080
@@ -228,18 +187,12 @@ Seychelles,457
 Syrian Arab Republic,183630
 Turks and Caicos Islands,948.23
 Chad,1259200
-East Asia & Pacific (IDA & IBRD countries),
-Europe & Central Asia (IDA & IBRD countries),
 Togo,54390
 Thailand,510890
 Tajikistan,138790
 Turkmenistan,469930
-Latin America & the Caribbean (IDA & IBRD countries),
 Timor-Leste,14870
-"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",
 Tonga,720
-South Asia (IDA & IBRD),
-Sub-Saharan Africa (IDA & IBRD countries),
 Trinidad and Tobago,5128
 Tunisia,155360
 Turkiye,769630
@@ -247,7 +200,6 @@ Tuvalu,26
 Tanzania,884000
 Uganda,200520
 Ukraine,579400
-Upper middle income,
 Uruguay,175016
 United States,9147420
 Uzbekistan,438510
@@ -257,7 +209,7 @@ British Virgin Islands,151
 Virgin Islands (U.S.),348
 Viet Nam,313429
 Vanuatu,12189
-World,
+World,129635077.6
 Samoa,2780
 Kosovo,
 "Yemen, Rep.",527968
