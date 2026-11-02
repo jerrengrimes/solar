@@ -1,4 +1,4 @@
-﻿Country,Country area (km2),Country area (m2),Electricity Usage (TWh/yr),Population,Solar panel Generation  (Wh/m2/hour),Peak hours of sunlight in a day,Sunny days in a year,Wh/m2,Area needed (m2),Percentage of land area needed
+﻿name,Country area (km2),Country area (m2),Electricity Usage (TWh/yr),Population,Solar panel Generation  (Wh/m2/hour),Peak hours of sunlight in a day,Sunny days in a year,Wh/m2,Area needed (m2),Percentage of land area needed
 United States of America,"9,372,610","9,372,610,000,000",292,"349,035,494",150,5,365,273750,1066666667,0.011380679
 China,"9,706,961","9,706,961,000,000","10,560.24","1,412,914,089",150,6,365,328500,32146849315,0.331173158
 India,"3,287,590","3,287,590,000,000","2,082.82","1,476,625,576",150,7,365,383250,5434624918,0.165307259
