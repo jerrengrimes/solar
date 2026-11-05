@@ -54,7 +54,7 @@ latitude,longitude,name
 21.521757,-77.781167,Cuba
 35.126413,33.429859,Cyprus
 49.817492,15.472962,Czech Republic
--4.038333,21.758664,Democratic Republic of Congo
+-4.038333,21.758664,Democratic Republic of the Congo
 56.26392,9.501785,Denmark
 11.825138,42.590275,Djibouti
 15.414999,-61.370976,Dominica
@@ -105,7 +105,7 @@ latitude,longitude,name
 54.236107,-4.548056,Isle of Man
 31.046051,34.851612,Israel
 41.87194,12.56738,Italy
-7.539989,-5.54708,Ivory Coast
+7.539989,-5.54708,Côte d'Ivoire
 18.109581,-77.297508,Jamaica
 36.204824,138.252924,Japan
 49.214439,-2.13125,Jersey
@@ -177,8 +177,8 @@ latitude,longitude,name
 39.399872,-8.224454,Portugal
 18.220833,-66.590149,Puerto Rico
 25.354826,51.183884,Qatar
--21.115141,55.536384,R√©union
--0.228021,15.827659,Republic of Congo
+-21.115141,55.536384,Réunion
+-0.228021,15.827659,Republic of the Congo
 45.943161,24.96676,Romania
 61.52401,105.318756,Russia
 -1.940278,29.873888,Rwanda
@@ -189,7 +189,7 @@ latitude,longitude,name
 12.984305,-61.287228,Saint Vincent and the Grenadines
 -13.759029,-172.104629,Samoa
 43.94236,12.457777,San Marino
-0.18636,6.613081,Sao Tome and Principe
+0.18636,6.613081,São Tomé and Príncipe
 23.885942,45.079162,Saudi Arabia
 14.497401,-14.452362,Senegal
 44.016521,21.005859,Serbia
